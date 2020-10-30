@@ -4,14 +4,15 @@
 ?>
 
 <html>
+    <head>
+        <style>
+            p{
+                color = red;
+            }
+
+        </style>
+    </head>
     <body>
         <p>hello</p>
     </body>    
 </html>
-
-<style>
-    p{
-        color = red;
-    }
-
-</style>
