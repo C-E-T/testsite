@@ -1,3 +1,4 @@
-echo "My first PHP";
+<?php 
 
-hello there
+    echo("My Fist PHP!");
+?>
