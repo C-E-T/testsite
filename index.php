@@ -6,8 +6,8 @@
 <html>
     <head>
         <style>
-            p{
-                color = red;
+            *{
+                background-color = red;
             }
 
         </style>
