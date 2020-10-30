@@ -5,12 +5,6 @@
 
 <html>
     <head>
-        <style>
-            *{
-                background-color = red;
-            }
-
-        </style>
     </head>
     <body>
         <p>hello</p>
